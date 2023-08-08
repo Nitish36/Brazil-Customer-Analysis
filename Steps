@@ -1,0 +1,60 @@
+Steps followed
+
+Initial steps
+1) Installed Pyspark
+2) Installed pandas
+3) Installed pyspark.pandas and pyarrow
+
+Load the data
+1) Loaded cusomers,geolocation,order_items,order_reviews,orders,payments,products,sellers
+2) Printed the schema for each of the datasets
+3) Create a tempView for each of the datasets
+4) Display 10 records from each table
+5) Created a function which will run thorugh each of the datasets to check for null values
+5) Checked for null values in all the datasets and maintained a count of it
+
+
+Variable Description
+
+1)For loading csv
+customer --> customer Dataset
+geolocation --> geolocation Dataset
+order_items --> order_items Dataset
+order_reviews --> order_reviews Dataset
+orders --> orders Dataset
+payments --> payments dataset
+products --> products dataset
+sellers --> sellers Dataset
+
+2) For temp View
+
+customerView --> for customer table
+geolocationView --> for geolocation table
+order_itemsView --> for order items table
+order_reviewsView --> for order reviews table
+ordersView --> for orders table
+paymentsView --> for payments table
+productsView --> for products table
+sellersView --> for sellers Table
+
+3) For cleaned data
+new_orderReviewDF --> order review df
+new_ordersDF --> order df
+
+3) For DataFrame
+outCustomer --> For customer DataFrame
+outGeolocation --> For gelocation dataframe
+outorderitems --> For orderitems dataframe
+outorderreviews --> For order review dataframe
+outorder --> For order dataframe
+outPayment --> For payment dataframe
+outProduct --> for product datafrme
+outSellers --> For sellers Dataframe
+
+
+Dashboard for the above
+Customers,geolocation,order_items,orders,payment,products
+1) Distribution of customers across states and cities
+2) highest prices across each state
+3) payment_type across each state
+
