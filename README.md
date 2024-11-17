@@ -1,7 +1,7 @@
 ## Various insights were generated from this some of which were as given below
 
 1. Based on the results obtained it can be seen the there is an increase in the number of orders placed from 4 to 324 and then dropped to a minimal of 1 in december
-From 2017 the number of orders shows a general increasing trend from January to November, with slight fluctuations in between.
+2. From 2017 the number of orders shows a general increasing trend from January to November, with slight fluctuations in between.
 IN 2018 the number of orders starts high in January and remains relatively stable until May. After May,there is a decreasing trend in order volume.
 The highest number of purchases are from people who are there in São Paulo (SP) of Brazil and the least are from Roraima (RR).
 Most of the purchase are made in afternoon (38135) and the least no of purchases are made in the dawn (5242)
